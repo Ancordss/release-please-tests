@@ -1,5 +1,16 @@
 # Changelog
 
+## Version 1.0.0, released 2025-11-04
+
+
+### ⚠ BREAKING CHANGES
+
+* eliminar soporte para .NET 5.0 and stable releaser
+
+### ✨ Features
+
+* eliminar soporte para .NET 5.0 and stable releaser ([0cd57bc](https://github.com/Ancordss/release-please-tests/commit/0cd57bce82f6e4288fe71f23e7ebef557a57f925))
+
 ## Version 0.1.0, released 2025-11-04
 
 
