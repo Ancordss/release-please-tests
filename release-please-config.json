@@ -9,7 +9,7 @@
   "changelog-type": "default",
   "changelog-path": "docs/history.md",
   "pull-request-title-pattern": "chore(${component}) : release version ${version} ${scope}",
-  "pull-request-header": "🤖✨ New ${component} version incoming!",
+  "pull-request-header": "🤖✨ New release version incoming!",
   "pull-request-footer": "Generated with ❤️ by [release-please](https://github.com/googleapis/release-please) • Please review and merge to publish the new version.",
   "packages": {
     "hello-world-dotnet": {
