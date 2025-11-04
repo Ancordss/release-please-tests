@@ -12,7 +12,7 @@ namespace hello_world_dotnet.Controllers
         {
             return new()
             {
-                Message = "Automate all the things! bumping version 0.0.1 ",
+                Message = "Automate all the things! bumping version 0.0.1  ",
                 Timestamp = DateTime.Now
             };
         }
