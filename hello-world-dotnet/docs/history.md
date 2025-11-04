@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 0.1.0, released 2025-11-04
+
+
+### ✨ Features
+
+* **docker:** cambios ([06d9b80](https://github.com/Ancordss/release-please-tests/commit/06d9b80e9c2628b5a1f5b7cf59e3426acb0e873e))
+
 ## Version 0.0.2, released 2025-11-04
 
 
