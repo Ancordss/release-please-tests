@@ -1,0 +1,11 @@
+{
+  "apis": [
+    {
+      "id": "hello-world-dotnet",
+      "shortName": "HelloWorld",
+      "version": "0.0.1",
+      "noVersionHistory": false
+    }
+  ]
+}
+  
