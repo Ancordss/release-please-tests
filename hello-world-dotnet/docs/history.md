@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 0.0.2, released 2025-11-04
+
+
+### 🐛 Fixes
+
+* corregir bug en el cálculo del interés compuesto ([60effa7](https://github.com/Ancordss/release-please-tests/commit/60effa775ff912dd035f176b19821a96085d8ad5))
+
 ## Version 1.0.0, released 2025-11-04
 
 
