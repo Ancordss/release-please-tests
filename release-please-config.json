@@ -29,7 +29,7 @@
         {"type": "chore", "section": "🔧 Maintenance", "hidden": true},
         {"type": "BREAKING CHANGE", "section": "⚠ BREAKING CHANGES", "hidden": false}
       ],
-      "extra-label": "release, dotnet",
+      "extra-label": ["release", "dotnet"],
       "date-format": "%Y-%m-%d"
     }
   }
